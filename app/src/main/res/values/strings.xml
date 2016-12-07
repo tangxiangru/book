@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">book</string>
+
+    <string name="hint">看什么书?</string>
+    <string name="button_name">GO ON</string>
+
+</resources>
+
+
